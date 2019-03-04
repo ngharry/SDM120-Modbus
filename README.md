@@ -26,7 +26,7 @@ This is an Arduino Library for the multi-functional energy meter SDM120 Modbus.
 
 ```
 cd %userprofile%\Documents\Arduino\libraries &&
-git clone https://github.com/ngharry/sdm120
+git clone https://github.com/ngharry/SDM120-Modbus
 ```
    to download SDM120 Modbus library.
 - Wait until the downloading process finishes.
